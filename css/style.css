@@ -1,7 +1,18 @@
 body {
   margin: 0;
   padding: auto;
-  background-color: rgb(17, 42, 118);
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0%, rgba(26, 49, 95, 1)),
+    color-stop(10%, rgba(26, 49, 95, 1)),
+    color-stop(24%, rgba(29, 108, 141, 1)),
+    color-stop(37%, rgba(41, 136, 151, 1)),
+    color-stop(77%, rgba(39, 45, 100, 1)),
+    color-stop(90%, rgba(26, 49, 95, 1)),
+    color-stop(100%, rgba(26, 49, 95, 1))
+  );
 }
 .carouselStyle {
   max-height: 600px;
