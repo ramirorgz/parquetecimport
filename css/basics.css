@@ -125,3 +125,23 @@ body {
   background: rgb(17, 42, 118);
   color: #fff;
 }
+.card-title {
+  font-size: 45px;
+  position: relative;
+  font-style: italic;
+}
+.card-text {
+  font-size: 20px;
+  font-style: italic;
+  color: rgb(47, 92, 226);
+  display: flex;
+  justify-content: end;
+}
+.descripcion {
+  font-size: 20px;
+  font-style: italic;
+}
+main {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
