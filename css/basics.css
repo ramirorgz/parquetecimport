@@ -133,9 +133,11 @@ body {
 .card-text {
   font-size: 20px;
   font-style: italic;
-  color: rgb(47, 92, 226);
+  font-weight: bold;
+  color: rgb(248, 249, 251);
   display: flex;
   justify-content: end;
+  align-items: flex-end;
 }
 .descripcion {
   font-size: 20px;
