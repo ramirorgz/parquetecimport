@@ -147,3 +147,11 @@ main {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
+.asesor {
+  text-align: center;
+  background-color: #333;
+}
+.enlace__asesor {
+  color: #fff;
+  text-decoration: none;
+}
