@@ -139,6 +139,13 @@ body {
   justify-content: end;
   align-items: flex-end;
 }
+.present_product {
+  padding: 10px;
+  align-items: baseline;
+}
+.present_product2 {
+  box-shadow: #333 5px !important;
+}
 .descripcion {
   font-size: 20px;
   font-style: italic;
@@ -146,6 +153,12 @@ body {
 main {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+  margin: 5px;
+  padding: 5px;
+}
+.card-img_cnt {
+  margin-bottom: 10px;
+  max-width: -webkit-fill-available;
 }
 .asesor {
   text-align: center;
